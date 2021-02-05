@@ -1,4 +1,4 @@
-<h1>Page Test</h1>
+<h1>Web Page Test</h1>
 
-<a target="_blank" href="https://berkaytrhn.github.io/Host-Test/">Link</a>
+<a href="https://berkaytrhn.github.io/Host-Test/" target="_blank">Page Link</a>
 

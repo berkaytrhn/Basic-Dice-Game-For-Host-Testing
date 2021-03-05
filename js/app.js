@@ -37,8 +37,6 @@ const main = () => {
 
     //get header to change it during game
     header = document.getElementsByTagName("h1")[0];
-    header.innerText="Welcome To Dice Game"
-    header.parentElement.style.textAlign="center";
 
 
     timeOuts = [];
